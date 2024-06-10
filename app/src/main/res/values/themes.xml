@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Chatdrid" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/myBlue</item>
+        <item name="colorPrimaryVariant">@color/darkerblue</item>
+
+    </style>
+
+<!--    <style name="Theme.Chatdrid" parent="Base.Theme.Chatdrid" />-->
+
+    <style name="Base.Theme.Chatdrid.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/myBlue</item>
+        <item name="colorPrimaryVariant">@color/darkerblue</item>
+
+    </style>
+
+    <style name="Theme.Chatdrid" parent="Base.Theme.Chatdrid" />
+
+
+</resources>

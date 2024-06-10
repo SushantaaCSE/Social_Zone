@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945311570281",
+    "project_id": "chatdroid-4bd80",
+    "storage_bucket": "chatdroid-4bd80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945311570281:android:96e13834d78f4464a0c5f8",
+        "android_client_info": {
+          "package_name": "com.example.chatdrid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi0SYgAo0IbP0biu02RXwPG9cJop0rxr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

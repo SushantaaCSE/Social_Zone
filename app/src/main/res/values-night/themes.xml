@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Chatdrid" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+         <item name="colorPrimary">@color/darkerblue</item>
+        <item name="colorPrimaryVariant">@color/myBlue</item>
+    </style>
+
+    <style name="Base.Theme.Chatdrid.NoActionBar." parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/darkerblue</item>
+        <item name="colorPrimaryVariant">@color/myBlue</item>
+    </style>
+</resources>
