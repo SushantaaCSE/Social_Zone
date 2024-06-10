@@ -23,7 +23,7 @@ class smsAdapter(var context: Context, var list:ArrayList<smsModel>):RecyclerVie
         SentViewHolder(LayoutInflater.from(context).inflate(R.layout.send_sms_layout,parent,false
         ))
         else ReceiverViewHolder(
-        LayoutInflater.from(context).inflate(R.layout.send_sms_layout,parent,false
+        LayoutInflater.from(context).inflate(R.layout.reciver_sms_layout,parent,false
         )
 
         )
